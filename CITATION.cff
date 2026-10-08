@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the paper below."
+title: "UAVIDS-2025: A Benchmark Dataset for Intrusion Detection in UAV Networks Using Machine Learning Techniques"
+type: dataset
+authors:
+  - family-names: Zeng
+    given-names: Qingli
+    affiliation: University of South Carolina Upstate
+  - family-names: Bashir
+    given-names: Abdalrahman
+    affiliation: University of Missouri Kansas City
+  - family-names: Nait-Abdesselam
+    given-names: Farid
+    affiliation: Université Paris Cité
+doi: 10.21227/j5p4-zt27
+url: "https://ieee-dataport.org/documents/uavids-2025-benchmark-dataset-intrusion-detection-uav-networks-using-machine-learning"
+preferred-citation:
+  type: conference-paper
+  title: "UAVIDS-2025: A benchmark dataset for intrusion detection in UAV networks using machine learning techniques"
+  authors:
+    - family-names: Zeng
+      given-names: Qingli
+    - family-names: Bashir
+      given-names: Abdalrahman
+    - family-names: Nait-Abdesselam
+      given-names: Farid
+  collection-title: "2025 IEEE Conference on Communications and Network Security (CNS)"
+  pages: "1-9"
+  year: 2025
+  publisher:
+    name: IEEE
